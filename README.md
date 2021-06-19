@@ -1,0 +1,2 @@
+# werewolf
+Main directory
