@@ -1,0 +1,23 @@
+{
+  "name": "werewolf",
+  "version": "0.0.1",
+  "description": "Werewolf Solutions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "desktop": "echo \"cd desktop && npm start inject user & loggedIn=true \"",
+    "dev": "nodemon app.js",
+    "accounting": "echo \"cd lib/accounting && nodemon accounting.js \"",
+    "trading-bot": "echo \"cd lib/trading-bot && nodemon tradingBot.js \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werewolf-Solutions/werewolf.git"
+  },
+  "author": "Lorenzo Ghidoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Werewolf-Solutions/werewolf/issues"
+  },
+  "homepage": "https://github.com/Werewolf-Solutions/werewolf#readme"
+}

@@ -1,2 +1,3 @@
-# werewolf
-Main directory
+# Werewolf Solutions
+
+[Contributing](#CONTRIBUTING.md)
