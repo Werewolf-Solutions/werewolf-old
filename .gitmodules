@@ -6,3 +6,7 @@
 	path = accounting
 	url = https://github.com/Werewolf-Solutions/accounting
 	branch = master
+[submodule "trading-bot"]
+	path = trading-bot
+	url = https://github.com/Werewolf-Solutions/trading-bot
+	branch = master
