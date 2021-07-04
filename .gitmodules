@@ -2,3 +2,7 @@
 	path = desktop
 	url = https://github.com/Werewolf-Solutions/desktop
 	branch = master
+[submodule "accounting"]
+	path = accounting
+	url = https://github.com/Werewolf-Solutions/accounting
+	branch = master
