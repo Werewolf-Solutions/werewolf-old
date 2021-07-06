@@ -4,7 +4,7 @@
 	branch = master
 [submodule "accounting"]
 	path = accounting
-	url = https://github.com/Werewolf-Solutions/accounting
+	url = https://github.com/Werewolf-Solutions/accounting/tree/master
 	branch = master
 [submodule "trading-bot"]
 	path = trading-bot
