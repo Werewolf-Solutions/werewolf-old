@@ -5,3 +5,11 @@
 /.env
 
 /accounting/helpers
+
+/server.js
+
+/config
+
+/models
+
+/routes

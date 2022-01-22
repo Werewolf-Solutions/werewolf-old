@@ -5,10 +5,9 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "desktop": "echo \"cd desktop && npm start inject user & loggedIn=true \"",
-    "dev": "nodemon app.js",
-    "accounting": "echo \"cd lib/accounting && nodemon accounting.js \"",
-    "trading-bot": "echo \"cd lib/trading-bot && nodemon tradingBot.js \""
+    "desktop": "cd desktop && npm start",
+    "server": "nodemon app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
